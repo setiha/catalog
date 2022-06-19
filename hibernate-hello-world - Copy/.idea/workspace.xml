@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6d71f74-b994-4bf8-9960-f325ab1fcd62" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29paLwTHhcLIW9baXwOPM8aOQrg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/hibernate-hello-world",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.TestHibernate">
+    <configuration name="OneToOneMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.howtodoinjava.hibernate.test.dto.OneToOneMain" />
+      <module name="hibernate-hello-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.howtodoinjava.hibernate.test.dto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelatiaPersoanaBancaCodBancar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.howtodoinjava.hibernate.test.dto.RelatiaPersoanaBancaCodBancar" />
+      <module name="hibernate-hello-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.howtodoinjava.hibernate.test.dto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelatiaProiectAngajat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.howtodoinjava.hibernate.test.dto.RelatiaProiectAngajat" />
+      <module name="hibernate-hello-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.howtodoinjava.hibernate.test.dto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelatieClasaElev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.howtodoinjava.hibernate.test.dto.RelatieClasaElev" />
+      <module name="hibernate-hello-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.howtodoinjava.hibernate.test.dto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHibernate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.howtodoinjava.hibernate.test.TestHibernate" />
+      <module name="hibernate-hello-world - Copy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.howtodoinjava.hibernate.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestHibernate" />
+        <item itemvalue="Application.RelatieClasaElev" />
+        <item itemvalue="Application.RelatiaProiectAngajat" />
+        <item itemvalue="Application.OneToOneMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6d71f74-b994-4bf8-9960-f325ab1fcd62" name="Changes" comment="" />
+      <created>1653812429204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653812429204</updated>
+      <workItem from="1653812430410" duration="15721000" />
+      <workItem from="1653901617816" duration="3058000" />
+      <workItem from="1653986698017" duration="1763000" />
+      <workItem from="1653991911922" duration="325000" />
+      <workItem from="1653999530235" duration="7454000" />
+      <workItem from="1654248759949" duration="54000" />
+      <workItem from="1654323957824" duration="15065000" />
+      <workItem from="1654349938133" duration="104000" />
+      <workItem from="1654350189191" duration="102000" />
+      <workItem from="1654350343590" duration="120000" />
+      <workItem from="1654411052695" duration="2318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+Class(classId=1, name=XIC, profile=Info, studentList=[Student(studentId=6, firstName=Mos, lastName=Nicolae, grade=6.55, rewards=[]), Student(studentId=7, firstName=Georgeta, lastName=Frumusica, grade=9.55, rewards=[]), Student(studentId=8, firstName=Aron, lastName=CRaciunel, grade=5.55, rewards=[]), Student(studentId=10, firstName=T, lastName=M, grade=3.8, rewards=[])], professor=Professor(id=3, firstName=BB, lastName=GG, experience=5))
+
+....
+
+Class(classId=2, name=XIIB, profile=Teologie, studentList=[Student(studentId=9, firstName=Vasile, lastName=Iordan, grade=8.88, rewards=[])], professor=Professor(id=4, firstName=Hii, lastName=Hoo, experience=1))
+
+....
+
